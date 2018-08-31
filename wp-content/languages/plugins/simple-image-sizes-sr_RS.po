@@ -1,0 +1,298 @@
+# Translation of Plugins - Simple Image Sizes - Stable (latest release) in Serbian
+# This file is distributed under the same license as the Plugins - Simple Image Sizes - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-09-30 14:27:41+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: sr_RS\n"
+"Project-Id-Version: Plugins - Simple Image Sizes - Stable (latest release)\n"
+
+#: classes/admin/post.php:53
+msgid "Regenerate image sizes"
+msgstr "Направи поново величине слика"
+
+#: classes/admin/post.php:78
+msgid "There is no media attached to this content."
+msgstr "Не постоји медиа фајл повезан са овим садржајем"
+
+#. Author URI of the plugin/theme
+msgid "http://nicolas-juen.fr"
+msgstr "http://nicolas-juen.fr"
+
+#. Author of the plugin/theme
+msgid "Rahe"
+msgstr "Rahe"
+
+#. Description of the plugin/theme
+msgid "Add options in media setting page for images sizes"
+msgstr "Додај опције Једноставних величина слика у подешавања"
+
+#. Plugin URI of the plugin/theme
+msgid "https://github.com/Rahe/simple-image-sizes"
+msgstr "https://github.com/Rahe/simple-image-sizes"
+
+#. Plugin Name of the plugin/theme
+msgid "Simple Image Sizes"
+msgstr "Simple Image Sizes"
+
+#: templates/options-media.php:150
+msgid "Last image:"
+msgstr "Последња слика:"
+
+#: templates/options-media.php:139
+msgid "Calculating..."
+msgstr "Израчунавам..."
+
+#: templates/options-media.php:138
+msgid "End time calculated :"
+msgstr "Израчунато време завршетка"
+
+#: templates/options-media.php:88 templates/options-media.php:119
+msgid "Post type"
+msgstr "Врста чланка"
+
+#: templates/options-media.php:81
+msgid "Select which post type source thumbnails you want to rebuild:"
+msgstr "Изабери врсту чланака за које желиш да направиш мање слике:"
+
+#: templates/options-media.php:20 templates/options-media.php:76
+msgid "Crop ?"
+msgstr "Исеци ?"
+
+#: templates/options-media.php:19 templates/options-media.php:75
+msgid "Height"
+msgstr "Висина"
+
+#: templates/options-media.php:18 templates/options-media.php:74
+msgid "Width"
+msgstr "Ширина"
+
+#: templates/options-media.php:17 templates/options-media.php:73
+msgid "Size name"
+msgstr "Име величине"
+
+#: templates/options-media.php:10
+msgid "Select which thumbnails you want to rebuild:"
+msgstr "Изабери које мање слике желиш да направиш:"
+
+#: classes/admin/post.php:325 classes/admin/post.php:333
+#: templates/options-media.php:152
+msgid "Regenerate Thumbnails"
+msgstr "Направи мање слике"
+
+#: classes/admin/post.php:299
+msgid "Regenerate thumbnails"
+msgstr "Направи мање слике"
+
+#: classes/admin/media.php:521
+msgid "Regeneration ended"
+msgstr "Направи мање слике"
+
+#: classes/admin/media.php:474 classes/admin/post.php:72
+#: classes/admin/post.php:135
+msgid "Trying to cheat ?"
+msgstr "Покушаваш ли да вараш ?"
+
+#: classes/admin/media.php:257
+msgid "Admin option-media template missing"
+msgstr "Шаблон за опције слика не постоји"
+
+#: classes/admin/media.php:241
+msgid "Copy and paste the code below into your Wordpress theme function file if you wanted to save them and deactivate the plugin."
+msgstr "Копирај и налепи код у functions.php датотеку уколико желите да искључите додатак."
+
+#: classes/admin/media.php:240
+msgid "Get the PHP for the theme"
+msgstr "Направи PHP код за тему"
+
+#: classes/admin/media.php:227
+msgid "Add a new size of thumbnail"
+msgstr "Додај нову величину маљих слика"
+
+#: classes/admin/media.php:193
+msgid "Cropping"
+msgstr "Исецање"
+
+#: classes/admin/media.php:130
+msgid "Thumbnail regeneration"
+msgstr "Поновно прављење мањих слика"
+
+#: classes/admin/media.php:124
+msgid "Get php for theme"
+msgstr "Направи php код за тему"
+
+#: classes/admin/media.php:118
+msgid "Add a new size"
+msgstr "Додај нову величину"
+
+#: classes/admin/media.php:108
+msgid "%s size"
+msgstr "%s величина"
+
+#: classes/admin/media.php:69
+msgid "Settings"
+msgstr "Подешавања"
+
+#: classes/admin/main.php:181 templates/options-media.php:42
+msgid "Yes"
+msgstr "Да"
+
+#: classes/admin/main.php:180 templates/options-media.php:42
+msgid "No"
+msgstr "Не"
+
+#: classes/admin/main.php:173
+msgid "bottom"
+msgstr "доле"
+
+#: classes/admin/main.php:172
+msgid "center"
+msgstr "средина"
+
+#: classes/admin/main.php:171
+msgid "top"
+msgstr "горе"
+
+#: classes/admin/main.php:167
+msgid "Right"
+msgstr "Десно"
+
+#: classes/admin/main.php:166
+msgid "Center"
+msgstr "Средина"
+
+#: classes/admin/main.php:165
+msgid "Left"
+msgstr "Лево"
+
+#: classes/admin/main.php:114
+msgid "This file does not exists and have not been regenerated :<br/><a target=\"_blank\" href=\"%1$s\" >%2$s</a>"
+msgstr "ова датотека не постоји и мања слика није направљена :<br/><a target=\"_blank\" href=\"%1$s\" >%2$s</a>"
+
+#: classes/admin/main.php:107
+msgid "This file already exists in this size and have not been regenerated :<br/><a target=\"_blank\" href=\"%1$s\" >%2$s</a>"
+msgstr "Ова датотека већ постоји у овој величини, мања слика није направљена :<br/><a target=\"_blank\" href=\"%1$s\" >%2$s</a>"
+
+#: classes/admin/main.php:94
+msgid "No id given in POST datas."
+msgstr "id из података поста није присутан."
+
+#: classes/admin/main.php:71
+msgid "This image has been regenerated in %s seconds"
+msgstr "Мања слика је направљена за %s секунди"
+
+#: classes/admin/main.php:70
+msgid "All the sizes you have modified are not saved, continue anyway ?"
+msgstr "Величине слика које су мењане на овој страни, нису сачуване, желиш ли да наставиш ?"
+
+#: classes/admin/main.php:68
+msgid " finished at :"
+msgstr "завршено у :"
+
+#: classes/admin/main.php:67 classes/admin/media.php:186
+msgid "Public name"
+msgstr "Јавно име"
+
+#: classes/admin/main.php:66
+msgid " started at"
+msgstr "започето у"
+
+#: classes/admin/main.php:65
+msgid "Validate"
+msgstr "Провери"
+
+#: classes/admin/main.php:64
+msgid "images have been regenerated !"
+msgstr "слике су направљене !"
+
+#: classes/admin/main.php:63
+msgid "Error requesting page"
+msgstr "Грешка у преносу странице"
+
+#: classes/admin/main.php:62 classes/admin/media.php:212
+msgid "Update"
+msgstr "Освежи"
+
+#: classes/admin/main.php:61
+msgid "Do you really want to delete these size ?"
+msgstr "Да ли заиста желите да избришете ову величину ?"
+
+#: classes/admin/main.php:60
+msgid "This size is already registered, edit it instead of recreating it."
+msgstr "Ова величина већ постоји, уместо да је додаш поново, уреди је."
+
+#: classes/admin/main.php:59
+msgid "Don't use the basic WordPress thumbnail size name, use the form above to edit them"
+msgstr "Не користите подразумевано име манјих слика из Вордпреса, искористите образац изнад да уредите име"
+
+#: classes/admin/main.php:58
+msgid "Size"
+msgstr "Величина"
+
+#: classes/admin/main.php:57
+msgid "Done."
+msgstr "Завршено."
+
+#: classes/admin/main.php:56
+msgid "Validate image size name"
+msgstr "Провери име нове величине"
+
+#: classes/admin/main.php:55
+msgid "Regenerate "
+msgstr "Направи поново"
+
+#: classes/admin/main.php:54
+msgid "Regenerating "
+msgstr "Правим поново"
+
+#: classes/admin/main.php:53
+msgid "No media in your site to regenerate !"
+msgstr "Нема слика које се могу направити поново"
+
+#: classes/admin/main.php:52 classes/admin/media.php:211
+msgid "Delete"
+msgstr "Обриши"
+
+#: classes/admin/main.php:51
+msgid " before the end."
+msgstr "до краја."
+
+#: classes/admin/main.php:50
+msgid " or "
+msgstr "или"
+
+#: classes/admin/main.php:49
+msgid " of "
+msgstr "од"
+
+#: classes/admin/main.php:48 classes/admin/media.php:209
+msgid "Show in post insertion ?"
+msgstr "Прикажи у чланку при убацивању слика ?"
+
+#: classes/admin/main.php:47
+msgid "no"
+msgstr "Не"
+
+#: classes/admin/main.php:46
+msgid "yes"
+msgstr "Да"
+
+#: classes/admin/main.php:45
+msgid "Crop"
+msgstr "Исецање"
+
+#: classes/admin/main.php:44 classes/admin/media.php:179
+msgid "Maximum height"
+msgstr "Максимална висина"
+
+#: classes/admin/main.php:43 classes/admin/media.php:172
+msgid "Maximum width"
+msgstr "Максимална ширина"
+
+#: classes/admin/main.php:42
+msgid "Reading attachments..."
+msgstr "Читам прилоге..."
